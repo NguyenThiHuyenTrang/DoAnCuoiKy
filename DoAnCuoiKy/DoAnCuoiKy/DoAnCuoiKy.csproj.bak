@@ -45,6 +45,8 @@
     <Reference Include="DevExpress.XtraBars.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v16.2" />
     <Reference Include="DevExpress.Printing.v16.2.Core" />
+    <Reference Include="DevExpress.XtraGrid.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraLayout.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraNavBar.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
@@ -69,6 +71,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChuyenKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChuyenKho.Designer.cs">
+      <DependentUpon>ChuyenKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang.Designer.cs">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="CapNhatNguoiDung.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +111,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang.Designer.cs">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="NhatKyHeThong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +137,12 @@
     <Compile Include="SaoLuuDuLieu.Designer.cs">
       <DependentUpon>SaoLuuDuLieu.cs</DependentUpon>
     </Compile>
+    <Compile Include="SoDuDauKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoDuDauKy.Designer.cs">
+      <DependentUpon>SoDuDauKy.cs</DependentUpon>
+    </Compile>
     <Compile Include="ThongTin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,6 +155,18 @@
     <Compile Include="ThayDoiMatKhau.Designer.cs">
       <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThuTien.Designer.cs">
+      <DependentUpon>ThuTien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChuyenKho.resx">
+      <DependentUpon>ChuyenKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang.resx">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CapNhatNguoiDung.resx">
       <DependentUpon>CapNhatNguoiDung.cs</DependentUpon>
     </EmbeddedResource>
@@ -137,6 +175,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BanHang.resx">
+      <DependentUpon>BanHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NhatKyHeThong.resx">
       <DependentUpon>NhatKyHeThong.cs</DependentUpon>
@@ -158,11 +199,17 @@
     <EmbeddedResource Include="SaoLuuDuLieu.resx">
       <DependentUpon>SaoLuuDuLieu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SoDuDauKy.resx">
+      <DependentUpon>SoDuDauKy.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ThongTin.resx">
       <DependentUpon>ThongTin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ThayDoiMatKhau.resx">
       <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThuTien.resx">
+      <DependentUpon>ThuTien.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="DoAnLTUDDataSet.xsc">

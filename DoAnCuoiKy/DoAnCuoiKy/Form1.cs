@@ -20,7 +20,7 @@ namespace DoAnCuoiKy
         private void button1_Click(object sender, EventArgs e)
         {
            
-                var KTDangNhap = (from login in dulieu.login1s
+                var KTDangNhap = (from login in dulieu.logins
                                   where login.username == tb_username.Text.Trim() && login.pass == tb_pass.Text
                                   select login).SingleOrDefault();
                 if (KTDangNhap == null)

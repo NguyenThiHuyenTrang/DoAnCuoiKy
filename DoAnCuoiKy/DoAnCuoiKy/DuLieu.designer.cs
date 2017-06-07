@@ -27,14 +27,13 @@ namespace DoAnCuoiKy
 	{
 		
 		private static System.Data.Linq.Mapping.MappingSource mappingSource = new AttributeMappingSource();
-        internal object logins;
-
-        #region Extensibility Method Definitions
-        partial void OnCreated();
+		
+    #region Extensibility Method Definitions
+    partial void OnCreated();
     #endregion
 		
 		public DuLieuDataContext() : 
-				base(global::DoAnCuoiKy.Properties.Settings.Default.DoAnLTUDConnectionString, mappingSource)
+				base(global::DoAnCuoiKy.Properties.Settings.Default.DoAnLTUDConnectionString1, mappingSource)
 		{
 			OnCreated();
 		}
@@ -63,17 +62,17 @@ namespace DoAnCuoiKy
 			OnCreated();
 		}
 		
-		public System.Data.Linq.Table<login1> login1s
+		public System.Data.Linq.Table<login> logins
 		{
 			get
 			{
-				return this.GetTable<login1>();
+				return this.GetTable<login>();
 			}
 		}
 	}
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.login")]
-	public partial class login1
+	public partial class login
 	{
 		
 		private string _username;
@@ -82,7 +81,7 @@ namespace DoAnCuoiKy
 		
 		private string _Remme;
 		
-		public login1()
+		public login()
 		{
 		}
 		
