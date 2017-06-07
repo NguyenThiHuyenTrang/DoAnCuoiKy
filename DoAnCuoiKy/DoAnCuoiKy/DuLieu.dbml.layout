@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DuLieu">
+  <DataContextMoniker Name="/DuLieuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="822ecb9c-be50-4b7c-8535-5a28b5f206bf" absoluteBounds="4.875, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DuLieuDataContext/login1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7b01266e-e3fa-419c-841f-9cbcf3fe2d3d" absoluteBounds="4.89, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

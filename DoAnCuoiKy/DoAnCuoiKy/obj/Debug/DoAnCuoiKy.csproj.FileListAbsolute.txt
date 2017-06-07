@@ -1,0 +1,233 @@
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v17.1.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v17.1.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csprojResolveAssemblyReference.cache
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe.licenses
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+E:\HK2_3\LTUDQL2\DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csprojResolveAssemblyReference.cache
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThongTin.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe.licenses
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatNguoiDung.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatVaiTro.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThayDoiMatKhau.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.NhatKyHeThong.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.SaoLuuDuLieu.resources
+C:\Users\vinhuedinh\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.PhucHoiDuLieu.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csprojResolveAssemblyReference.cache
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatNguoiDung.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatVaiTro.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.NhatKyHeThong.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.PhucHoiDuLieu.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.SaoLuuDuLieu.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThongTin.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThayDoiMatKhau.resources
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe.licenses
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\Users\Huyền Trang\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
