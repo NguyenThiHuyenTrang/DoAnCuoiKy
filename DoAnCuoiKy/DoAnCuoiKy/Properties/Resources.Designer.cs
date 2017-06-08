@@ -143,6 +143,16 @@ namespace DoAnCuoiKy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap home_next_icon {
+            get {
+                object obj = ResourceManager.GetObject("home-next-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap inside_logout_icon {
             get {
                 object obj = ResourceManager.GetObject("inside-logout-icon", resourceCulture);
@@ -176,6 +186,16 @@ namespace DoAnCuoiKy.Properties {
         internal static System.Drawing.Bitmap shopping_cart_up_icon {
             get {
                 object obj = ResourceManager.GetObject("shopping-cart-up-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stock_vector_shows_a_rise_in_prices_for_real_estate_539128582 {
+            get {
+                object obj = ResourceManager.GetObject("stock-vector-shows-a-rise-in-prices-for-real-estate-539128582", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

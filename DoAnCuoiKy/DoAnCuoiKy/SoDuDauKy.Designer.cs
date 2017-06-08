@@ -32,14 +32,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SoDuDauKy));
             this.navBarControl1 = new DevExpress.XtraNavBar.NavBarControl();
             this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarGroup2 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarGroup3 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarGroup4 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarGroup2 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem2 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem3 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarGroup3 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem4 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem5 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarGroup4 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem6 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem7 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem8 = new DevExpress.XtraNavBar.NavBarItem();
@@ -126,6 +126,12 @@
             new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem1)});
             this.navBarGroup1.Name = "navBarGroup1";
             // 
+            // navBarItem1
+            // 
+            this.navBarItem1.Caption = "Tồn kho";
+            this.navBarItem1.Name = "navBarItem1";
+            this.navBarItem1.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem1.SmallImage")));
+            // 
             // navBarGroup2
             // 
             this.navBarGroup2.Caption = "Bảng kê";
@@ -133,30 +139,6 @@
             new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem2),
             new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem3)});
             this.navBarGroup2.Name = "navBarGroup2";
-            // 
-            // navBarGroup3
-            // 
-            this.navBarGroup3.Caption = "Công nợ đầu kỳ";
-            this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem4),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem5)});
-            this.navBarGroup3.Name = "navBarGroup3";
-            // 
-            // navBarGroup4
-            // 
-            this.navBarGroup4.Caption = "Thêm danh mục";
-            this.navBarGroup4.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem6),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem7),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem8),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem9)});
-            this.navBarGroup4.Name = "navBarGroup4";
-            // 
-            // navBarItem1
-            // 
-            this.navBarItem1.Caption = "Tồn kho";
-            this.navBarItem1.Name = "navBarItem1";
-            this.navBarItem1.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem1.SmallImage")));
             // 
             // navBarItem2
             // 
@@ -170,6 +152,14 @@
             this.navBarItem3.Name = "navBarItem3";
             this.navBarItem3.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem3.SmallImage")));
             // 
+            // navBarGroup3
+            // 
+            this.navBarGroup3.Caption = "Công nợ đầu kỳ";
+            this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem4),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem5)});
+            this.navBarGroup3.Name = "navBarGroup3";
+            // 
             // navBarItem4
             // 
             this.navBarItem4.Caption = "Khách hàng";
@@ -181,6 +171,16 @@
             this.navBarItem5.Caption = "Nhà cung cấp";
             this.navBarItem5.Name = "navBarItem5";
             this.navBarItem5.SmallImage = ((System.Drawing.Image)(resources.GetObject("navBarItem5.SmallImage")));
+            // 
+            // navBarGroup4
+            // 
+            this.navBarGroup4.Caption = "Thêm danh mục";
+            this.navBarGroup4.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem6),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem7),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem8),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem9)});
+            this.navBarGroup4.Name = "navBarGroup4";
             // 
             // navBarItem6
             // 
@@ -430,7 +430,7 @@
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.dockPanel2);
             this.Name = "SoDuDauKy";
-            this.Text = "SoDuDauKy";
+            this.Text = "Số dư đầu kỳ";
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dockManager1)).EndInit();
             this.dockPanel2.ResumeLayout(false);

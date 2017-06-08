@@ -11,11 +11,21 @@ using DevExpress.XtraEditors;
 
 namespace DoAnCuoiKy
 {
-    public partial class NhatKyHeThong : DevExpress.XtraEditors.XtraForm
+    public partial class PhanQuyen : DevExpress.XtraEditors.XtraForm
     {
-        public NhatKyHeThong()
+        public PhanQuyen()
         {
             InitializeComponent();
+        }
+
+        private void panelControl1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void treeList1_FocusedNodeChanged(object sender, DevExpress.XtraTreeList.FocusedNodeChangedEventArgs e)
+        {
+
         }
     }
 }

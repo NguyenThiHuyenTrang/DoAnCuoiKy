@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DoAnLTUD" Class="DuLieuDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-E7DO0MP;Initial Catalog=DoAnLTUD;Integrated Security=True" SettingsObjectName="DoAnCuoiKy.Properties.Settings" SettingsPropertyName="DoAnLTUDConnectionString1" Provider="System.Data.SqlClient" />
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PHAT\SQLEXPRESS;Initial Catalog=DoAnLTUD;Integrated Security=True" SettingsObjectName="DoAnCuoiKy.Properties.Settings" SettingsPropertyName="DoAnLTUDConnectionString2" Provider="System.Data.SqlClient" />
   <Table Name="dbo.login" Member="logins">
     <Type Name="login">
       <Column Name="username" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />

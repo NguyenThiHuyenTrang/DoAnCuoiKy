@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DevExpress.XtraEditors;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -66,6 +67,107 @@ namespace DoAnCuoiKy
         private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             this.Close();
+        }
+
+        private bool ExistForm(XtraForm form)
+        {
+            foreach (var child in MdiChildren)
+            {
+                if (child.Name == form.Name)
+                {
+                    child.Activate();
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        private void barButtonItem22_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new NhapHang();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem23_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new BanHang();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem26_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new ChuyenKho();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem29_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new SoDuDauKy();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem30_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new ThuTien();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem27_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new TraTien();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new ThongTin();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem6_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new ThayDoiMatKhau();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem7_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new NhatKyHeThong();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem8_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new SaoLuuDuLieu();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void barButtonItem9_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var form = new PhucHoiDuLieu();
+            if (ExistForm(form)) return;
+            form.MdiParent = this;
+            form.Show();
         }
     }
 }

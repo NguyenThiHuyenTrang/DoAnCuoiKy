@@ -11,9 +11,9 @@ using DevExpress.XtraEditors;
 
 namespace DoAnCuoiKy
 {
-    public partial class NhatKyHeThong : DevExpress.XtraEditors.XtraForm
+    public partial class TraTien : DevExpress.XtraEditors.XtraForm
     {
-        public NhatKyHeThong()
+        public TraTien()
         {
             InitializeComponent();
         }

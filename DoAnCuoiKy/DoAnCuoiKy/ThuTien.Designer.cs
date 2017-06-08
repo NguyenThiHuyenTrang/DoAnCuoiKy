@@ -177,7 +177,7 @@
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl1.Location = new System.Drawing.Point(200, 0);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(608, 422);
+            this.groupControl1.Size = new System.Drawing.Size(848, 422);
             this.groupControl1.TabIndex = 2;
             this.groupControl1.Text = "Danh sách công nợ chi tiết";
             // 
@@ -190,23 +190,23 @@
             this.groupControl2.Controls.Add(this.dateEdit1);
             this.groupControl2.Controls.Add(this.comboBoxEdit1);
             this.groupControl2.CustomHeaderButtons.AddRange(new DevExpress.XtraEditors.ButtonPanel.IBaseButton[] {
-            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Xem", null, "Preview"),
-            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Lập phiếu thu", null, "New"),
-            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Xuất", null, "ExportFile"),
-            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Đóng  ", null, "Close")});
+            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Xem", null, "Preview;Size16x16"),
+            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Lập phiếu thu", null, "New;Size16x16"),
+            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Xuất", null, "ExportFile;Size16x16"),
+            new DevExpress.XtraEditors.ButtonsPanelControl.GroupBoxButton("Đóng  ", null, "Close;Size16x16")});
             this.groupControl2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl2.Location = new System.Drawing.Point(2, 20);
             this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(604, 400);
+            this.groupControl2.Size = new System.Drawing.Size(844, 400);
             this.groupControl2.TabIndex = 0;
             // 
             // gridControl1
             // 
             this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl1.Location = new System.Drawing.Point(2, 45);
+            this.gridControl1.Location = new System.Drawing.Point(2, 29);
             this.gridControl1.MainView = this.gridView1;
             this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(600, 353);
+            this.gridControl1.Size = new System.Drawing.Size(840, 369);
             this.gridControl1.TabIndex = 5;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
@@ -218,7 +218,7 @@
             // 
             // comboBoxEdit2
             // 
-            this.comboBoxEdit2.Location = new System.Drawing.Point(713, 16);
+            this.comboBoxEdit2.Location = new System.Drawing.Point(659, 4);
             this.comboBoxEdit2.Name = "comboBoxEdit2";
             this.comboBoxEdit2.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -227,7 +227,7 @@
             // 
             // labelControl2
             // 
-            this.labelControl2.Location = new System.Drawing.Point(678, 23);
+            this.labelControl2.Location = new System.Drawing.Point(616, 7);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(20, 13);
             this.labelControl2.TabIndex = 3;
@@ -235,7 +235,7 @@
             // 
             // labelControl1
             // 
-            this.labelControl1.Location = new System.Drawing.Point(491, 19);
+            this.labelControl1.Location = new System.Drawing.Point(447, 7);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(13, 13);
             this.labelControl1.TabIndex = 2;
@@ -244,7 +244,7 @@
             // dateEdit1
             // 
             this.dateEdit1.EditValue = null;
-            this.dateEdit1.Location = new System.Drawing.Point(525, 16);
+            this.dateEdit1.Location = new System.Drawing.Point(475, 4);
             this.dateEdit1.Name = "dateEdit1";
             this.dateEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -256,10 +256,32 @@
             // comboBoxEdit1
             // 
             this.comboBoxEdit1.EditValue = "Tùy chọn";
-            this.comboBoxEdit1.Location = new System.Drawing.Point(343, 12);
+            this.comboBoxEdit1.Location = new System.Drawing.Point(302, 3);
             this.comboBoxEdit1.Name = "comboBoxEdit1";
             this.comboBoxEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.comboBoxEdit1.Properties.Items.AddRange(new object[] {
+            "Hôm nay",
+            "Tuần này",
+            "Tháng này",
+            "Quý này",
+            "Năm nay",
+            "Tháng 1",
+            "Tháng 2",
+            "Tháng 3",
+            "Tháng 4",
+            "Tháng 5",
+            "Tháng 6",
+            "Tháng 7",
+            "Tháng 8",
+            "Tháng 9",
+            "Tháng 10",
+            "Tháng 11",
+            "Tháng 12",
+            "Quý 1",
+            "Quý 2",
+            "Quý 3",
+            "Quý 4"});
             this.comboBoxEdit1.Size = new System.Drawing.Size(112, 20);
             this.comboBoxEdit1.TabIndex = 0;
             // 
@@ -267,11 +289,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(808, 422);
+            this.ClientSize = new System.Drawing.Size(1048, 422);
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.dockPanel1);
             this.Name = "ThuTien";
-            this.Text = "ThuTien";
+            this.Text = "Thu tiền";
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dockManager1)).EndInit();
             this.dockPanel1.ResumeLayout(false);

@@ -671,7 +671,7 @@
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.dockPanel1);
             this.Name = "NhapHang";
-            this.Text = "BanHang";
+            this.Text = "Nhập hàng";
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dockManager1)).EndInit();
             this.dockPanel1.ResumeLayout(false);

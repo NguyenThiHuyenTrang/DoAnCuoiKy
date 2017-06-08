@@ -22,7 +22,7 @@ namespace DoAnCuoiKy
             BonusSkins.Register();
             SkinManager.EnableFormSkins();
             UserLookAndFeel.Default.SetSkinStyle("DevExpress Style");
-            Application.Run(new BanHang());
+            Application.Run(new Form1());
         }
     }
 }

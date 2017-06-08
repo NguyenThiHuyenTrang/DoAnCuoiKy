@@ -33,7 +33,7 @@ namespace DoAnCuoiKy
     #endregion
 		
 		public DuLieuDataContext() : 
-				base(global::DoAnCuoiKy.Properties.Settings.Default.DoAnLTUDConnectionString1, mappingSource)
+				base(global::DoAnCuoiKy.Properties.Settings.Default.DoAnLTUDConnectionString2, mappingSource)
 		{
 			OnCreated();
 		}
